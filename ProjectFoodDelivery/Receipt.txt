@@ -1,0 +1,31 @@
+Student Name: sffw
+Student matric number: 234
+Phone number: 1234
+Email: sdf@sdf
+building: 12, asdefr , UTM, gefs fr
+B40 eligible: Yes
+Study year: 1
+
+============================
+		****Order Summary****
+
+#1
+Order Date: Sat Jun 24 21:10:19 SGT 2023
+Delivery note: erg re 3t 
+Order Number: 567544243
+Order Information: 
+Nasi kerabu       RM 10.00      Quantity: 1     
+
+#2
+Order Date: Sat Jun 24 21:10:34 SGT 2023
+Delivery note: erg re 3yit 
+Order Number: 1949663536
+Order Information: 
+Plain Water       RM 1.50       Quantity: 1     
+
+============================
+Total Item: 2
+Subtotal : RM 11.50 
+Discount : 70%
+Total Price : RM 3.45
+============================
